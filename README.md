@@ -22,8 +22,11 @@ We are using no external APIs in our app and only working with frameworks that a
 | Dictionary    | Array of Words and phrases         | A collection of abusive phrases or words that have the highest possibilty of being used|
 
 [X] GitHub Project created (1pt)
+
 [X] GitHub Milestones created (1pt)
+
 [X] GitHub Issues created from user stories (2pts)
+
 [X] Issues added to project and assigned to specific team members (1pt)
 
 
